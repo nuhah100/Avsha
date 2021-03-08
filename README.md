@@ -1,8 +1,8 @@
 
-# Avsha
+# Idishe
 
 https://kultuk.github.io/Avsha/
-:למידע בעברית גשו לכאן
+:פֿאַר אינפֿאָרמאַציע אויף העברעיש, גיין דאָ
 
 This is a scripting language in hebrew that is designed to help kids learn how to code.
 
@@ -32,3 +32,4 @@ Since markup doens't work well with RTL content, code snippets can be found here
 Previously called AvshalomCode
 
 Created by Sahar Zehavi.
+Modified by Me.
